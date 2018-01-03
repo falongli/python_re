@@ -1,0 +1,7 @@
+Python正则表达式中的量词默认为贪婪模式；
+
+支持原生字符串的写法：r'\\'类似于C++中"\\\\"
+
+re.search(pattern, expr)
+
+MatchObject.group()
